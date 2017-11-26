@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f20acd95-7eb7-469e-b1f8-80011708036f" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/test.js.html" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tbeck860.github.io" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -49,11 +49,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="portfolioStyle.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="portfolioStyle.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/portfolioStyle.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tbeck860.github.io" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/docs/tbeck860.github.io">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -128,6 +138,11 @@
               <item name="buckethead" type="b2602c69:ProjectViewProjectNode" />
               <item name="buckethead" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="buckethead" type="b2602c69:ProjectViewProjectNode" />
+              <item name="buckethead" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -187,7 +202,7 @@
       <updated>1510956754556</updated>
       <workItem from="1510956755667" duration="5061000" />
       <workItem from="1511386567705" duration="13562000" />
-      <workItem from="1511667578322" duration="937000" />
+      <workItem from="1511667578322" duration="1054000" />
     </task>
     <task id="LOCAL-00001" summary="add docs">
       <created>1511668733445</created>
@@ -196,11 +211,18 @@
       <option name="project" value="LOCAL" />
       <updated>1511668733445</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="deleted docs">
+      <created>1511668769813</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1511668769813</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19560000" />
+    <option name="totallyTimeSpent" value="19677000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -231,7 +253,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add docs" />
-    <option name="LAST_COMMIT_MESSAGE" value="add docs" />
+    <MESSAGE value="deleted docs" />
+    <option name="LAST_COMMIT_MESSAGE" value="deleted docs" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -301,7 +324,7 @@
     <entry file="file://$PROJECT_DIR$/portfolioStyle.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -310,6 +333,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/tbeck860.github.io">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
